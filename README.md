@@ -31,13 +31,12 @@ Below is the block diagram of the system.
 ## File Structure
 - Design Codes - Contains the Verilog design source files.
 - Testbench Codes - Contains the Verilog simulation source files.
-- Other Files - Contains a Python script, constraints file and the block diagram.
+- Other Files - Contains a Python script, constraints file, presentation and the block diagram.
 
 ## Requirements
 - Basys3 FPGA Board
 - Vivado Design Suite
 - Python 3.x
-- UART communication setup
 
 ## Implementation
 - [Implementation Videos](https://iitgnacin-my.sharepoint.com/:f:/g/personal/23110207_iitgn_ac_in/Epcz5gzxI7RKm7uqvrsUTH8BKhkDLiXcI5wY0NY-FzVY1g?e=720wWB)
