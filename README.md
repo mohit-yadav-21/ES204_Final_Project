@@ -40,7 +40,7 @@ Below is the block diagram of the system.
 - UART communication setup
 
 ## Implementation
-- [Implementation Videos](https://iitgnacin-my.sharepoint.com/my?id=%2Fpersonal%2F23110207%5Fiitgn%5Fac%5Fin%2FDocuments%2FDigital%5FSystems%5FProject&ga=1)
+- [Implementation Videos](https://iitgnacin-my.sharepoint.com/:f:/g/personal/23110207_iitgn_ac_in/Epcz5gzxI7RKm7uqvrsUTH8BKhkDLiXcI5wY0NY-FzVY1g?e=720wWB)
 
 
 
