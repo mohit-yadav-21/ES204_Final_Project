@@ -48,3 +48,4 @@ module uart_rx_tb;
 
    
   end
+endmodule
