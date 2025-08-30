@@ -29,9 +29,9 @@ Below is the block diagram of the system.
 8. **uart_tx**: Sends the resulting 3x3 matrix back to the laptop via UART after processing.
 
 ## File Structure
-- Design Codes - Contains the Verilog design source files.
-- Testbench Codes - Contains the Verilog simulation source files.
-- Other Files - Contains a Python script, constraints file, presentation and the block diagram.
+- Design Codes - This folder contains the Verilog design source files.
+- Testbench Codes - This folder contains the Verilog simulation source files.
+- Other Files - This folder contains a Python script, constraints file, presentation and the block diagram.
 
 ## Requirements
 - Basys3 FPGA Board
